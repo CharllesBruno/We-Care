@@ -4,8 +4,9 @@
 <div>
     <img src="./We-Care_pet.png" alt="Foto-página-We-Care">
 </div>
-
-<h2>Utilando apena</h2>
+<br>
+<p>Projeto Responsivo</p>
+<h2>Utilizando apenas</h2>
 <li>
     <ul>HTML</ul>
     <ul>CSS</ul>
